@@ -1,0 +1,4240 @@
+fileFormatVersion: 2
+guid: 1a4291b2d4d808b43b6458698ada0223
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7049752123664061822
+    second: TreasuresAndCollectibles-Sheet_0
+  - first:
+      213: -6011809585955801120
+    second: TreasuresAndCollectibles-Sheet_1
+  - first:
+      213: -3062392852024397173
+    second: TreasuresAndCollectibles-Sheet_2
+  - first:
+      213: 4023083255586657423
+    second: TreasuresAndCollectibles-Sheet_3
+  - first:
+      213: -5803200867709784104
+    second: TreasuresAndCollectibles-Sheet_4
+  - first:
+      213: 2233502326598089796
+    second: TreasuresAndCollectibles-Sheet_5
+  - first:
+      213: -7772456915707446711
+    second: TreasuresAndCollectibles-Sheet_6
+  - first:
+      213: 5092369387787309330
+    second: TreasuresAndCollectibles-Sheet_7
+  - first:
+      213: 1435590097743135609
+    second: TreasuresAndCollectibles-Sheet_8
+  - first:
+      213: 8450241063881904883
+    second: TreasuresAndCollectibles-Sheet_9
+  - first:
+      213: 8495672594333548075
+    second: TreasuresAndCollectibles-Sheet_10
+  - first:
+      213: -756728138733150384
+    second: TreasuresAndCollectibles-Sheet_11
+  - first:
+      213: -4731202668231895877
+    second: TreasuresAndCollectibles-Sheet_12
+  - first:
+      213: 7526090809524304373
+    second: TreasuresAndCollectibles-Sheet_13
+  - first:
+      213: -5825532446511185683
+    second: TreasuresAndCollectibles-Sheet_14
+  - first:
+      213: -8680966250820125533
+    second: TreasuresAndCollectibles-Sheet_15
+  - first:
+      213: -4216835593830300854
+    second: TreasuresAndCollectibles-Sheet_16
+  - first:
+      213: 4230020892095490967
+    second: TreasuresAndCollectibles-Sheet_17
+  - first:
+      213: -146608780941757352
+    second: TreasuresAndCollectibles-Sheet_18
+  - first:
+      213: 7593492715598654017
+    second: TreasuresAndCollectibles-Sheet_19
+  - first:
+      213: 8774148870135178193
+    second: TreasuresAndCollectibles-Sheet_20
+  - first:
+      213: -7313872431127373323
+    second: TreasuresAndCollectibles-Sheet_21
+  - first:
+      213: 2424707321639128418
+    second: TreasuresAndCollectibles-Sheet_22
+  - first:
+      213: 6996917051350742339
+    second: TreasuresAndCollectibles-Sheet_23
+  - first:
+      213: -3193763263971195614
+    second: TreasuresAndCollectibles-Sheet_24
+  - first:
+      213: 5638933115856732177
+    second: TreasuresAndCollectibles-Sheet_25
+  - first:
+      213: -3623981666793166534
+    second: TreasuresAndCollectibles-Sheet_26
+  - first:
+      213: -2626295672052666046
+    second: TreasuresAndCollectibles-Sheet_27
+  - first:
+      213: -2515873493313517339
+    second: TreasuresAndCollectibles-Sheet_28
+  - first:
+      213: 475466985511686398
+    second: TreasuresAndCollectibles-Sheet_29
+  - first:
+      213: -5728649071538077073
+    second: TreasuresAndCollectibles-Sheet_30
+  - first:
+      213: 5044548169584668832
+    second: TreasuresAndCollectibles-Sheet_31
+  - first:
+      213: 8554073737309052154
+    second: TreasuresAndCollectibles-Sheet_32
+  - first:
+      213: -1609390561828146821
+    second: TreasuresAndCollectibles-Sheet_33
+  - first:
+      213: 6386538843708159969
+    second: TreasuresAndCollectibles-Sheet_34
+  - first:
+      213: 2263621822367234329
+    second: TreasuresAndCollectibles-Sheet_35
+  - first:
+      213: -4250472911191582590
+    second: TreasuresAndCollectibles-Sheet_36
+  - first:
+      213: -1674109300861312166
+    second: TreasuresAndCollectibles-Sheet_37
+  - first:
+      213: -3291052751514152826
+    second: TreasuresAndCollectibles-Sheet_38
+  - first:
+      213: -5652431357787694872
+    second: TreasuresAndCollectibles-Sheet_39
+  - first:
+      213: 5951574370606132968
+    second: TreasuresAndCollectibles-Sheet_40
+  - first:
+      213: 7235302159715314283
+    second: TreasuresAndCollectibles-Sheet_41
+  - first:
+      213: 7729600104093800220
+    second: TreasuresAndCollectibles-Sheet_42
+  - first:
+      213: 4416365111872780113
+    second: TreasuresAndCollectibles-Sheet_43
+  - first:
+      213: -3414581061222578704
+    second: TreasuresAndCollectibles-Sheet_44
+  - first:
+      213: 7365035861429798063
+    second: TreasuresAndCollectibles-Sheet_45
+  - first:
+      213: 4501604799792505722
+    second: TreasuresAndCollectibles-Sheet_46
+  - first:
+      213: 4050932351670292795
+    second: TreasuresAndCollectibles-Sheet_47
+  - first:
+      213: 5958926864603306482
+    second: TreasuresAndCollectibles-Sheet_48
+  - first:
+      213: -4706408825977163011
+    second: TreasuresAndCollectibles-Sheet_49
+  - first:
+      213: -6919726760327180124
+    second: TreasuresAndCollectibles-Sheet_50
+  - first:
+      213: -7878530738951615158
+    second: TreasuresAndCollectibles-Sheet_51
+  - first:
+      213: -4995047926284129436
+    second: TreasuresAndCollectibles-Sheet_52
+  - first:
+      213: 7341988697873026526
+    second: TreasuresAndCollectibles-Sheet_53
+  - first:
+      213: -8748674992937977841
+    second: TreasuresAndCollectibles-Sheet_54
+  - first:
+      213: 6807279679410362506
+    second: TreasuresAndCollectibles-Sheet_55
+  - first:
+      213: -8970920668263632982
+    second: TreasuresAndCollectibles-Sheet_56
+  - first:
+      213: -7631508996527901708
+    second: TreasuresAndCollectibles-Sheet_57
+  - first:
+      213: -5313860716976015324
+    second: TreasuresAndCollectibles-Sheet_58
+  - first:
+      213: 934056182933366040
+    second: TreasuresAndCollectibles-Sheet_59
+  - first:
+      213: -4702170130261368022
+    second: TreasuresAndCollectibles-Sheet_60
+  - first:
+      213: -4129734918266814052
+    second: TreasuresAndCollectibles-Sheet_61
+  - first:
+      213: 9077467336288339251
+    second: TreasuresAndCollectibles-Sheet_62
+  - first:
+      213: -6485590332986860820
+    second: TreasuresAndCollectibles-Sheet_63
+  - first:
+      213: 7865199997322266671
+    second: TreasuresAndCollectibles-Sheet_64
+  - first:
+      213: -4764378238182042115
+    second: TreasuresAndCollectibles-Sheet_65
+  - first:
+      213: 8364460062167271507
+    second: TreasuresAndCollectibles-Sheet_66
+  - first:
+      213: -5919015688600176078
+    second: TreasuresAndCollectibles-Sheet_67
+  - first:
+      213: -1329261837657280617
+    second: TreasuresAndCollectibles-Sheet_68
+  - first:
+      213: 6200764713513557142
+    second: TreasuresAndCollectibles-Sheet_69
+  - first:
+      213: -1077089494540233392
+    second: TreasuresAndCollectibles-Sheet_70
+  - first:
+      213: -270076676155404083
+    second: TreasuresAndCollectibles-Sheet_71
+  - first:
+      213: 101558231928206116
+    second: TreasuresAndCollectibles-Sheet_72
+  - first:
+      213: -1202859856532756512
+    second: TreasuresAndCollectibles-Sheet_73
+  - first:
+      213: -7001081065867923955
+    second: TreasuresAndCollectibles-Sheet_74
+  - first:
+      213: -69421384993564109
+    second: TreasuresAndCollectibles-Sheet_75
+  - first:
+      213: -3711839054799792958
+    second: TreasuresAndCollectibles-Sheet_76
+  - first:
+      213: 8605817334697062103
+    second: TreasuresAndCollectibles-Sheet_77
+  - first:
+      213: -8340243776446254601
+    second: TreasuresAndCollectibles-Sheet_78
+  - first:
+      213: 2688622166956608243
+    second: TreasuresAndCollectibles-Sheet_79
+  - first:
+      213: 7175179567672051288
+    second: TreasuresAndCollectibles-Sheet_80
+  - first:
+      213: 3005476776484016190
+    second: TreasuresAndCollectibles-Sheet_81
+  - first:
+      213: -2425028393165633950
+    second: TreasuresAndCollectibles-Sheet_82
+  - first:
+      213: 1459103665629219158
+    second: TreasuresAndCollectibles-Sheet_83
+  - first:
+      213: -8628865131735188189
+    second: TreasuresAndCollectibles-Sheet_84
+  - first:
+      213: -3440102473746947208
+    second: TreasuresAndCollectibles-Sheet_85
+  - first:
+      213: 1443596138892189167
+    second: TreasuresAndCollectibles-Sheet_86
+  - first:
+      213: 5663862679725338652
+    second: TreasuresAndCollectibles-Sheet_87
+  - first:
+      213: -7122289119817563503
+    second: TreasuresAndCollectibles-Sheet_88
+  - first:
+      213: 426381413211161703
+    second: TreasuresAndCollectibles-Sheet_89
+  - first:
+      213: 6376042537279591155
+    second: TreasuresAndCollectibles-Sheet_90
+  - first:
+      213: -4862059872673898900
+    second: TreasuresAndCollectibles-Sheet_91
+  - first:
+      213: 8293170990125834713
+    second: TreasuresAndCollectibles-Sheet_92
+  - first:
+      213: -7176311378226889579
+    second: TreasuresAndCollectibles-Sheet_93
+  - first:
+      213: -5023330580990747563
+    second: TreasuresAndCollectibles-Sheet_94
+  - first:
+      213: 325989364352319782
+    second: TreasuresAndCollectibles-Sheet_95
+  - first:
+      213: 8608206929534420446
+    second: TreasuresAndCollectibles-Sheet_96
+  - first:
+      213: -8995723306245778517
+    second: TreasuresAndCollectibles-Sheet_97
+  - first:
+      213: 7462405225154896612
+    second: TreasuresAndCollectibles-Sheet_98
+  - first:
+      213: -6216139983003387757
+    second: TreasuresAndCollectibles-Sheet_99
+  - first:
+      213: -2788827230238381725
+    second: TreasuresAndCollectibles-Sheet_100
+  - first:
+      213: 198363745775501519
+    second: TreasuresAndCollectibles-Sheet_101
+  - first:
+      213: -8190426867999615863
+    second: TreasuresAndCollectibles-Sheet_102
+  - first:
+      213: 2824810648116188406
+    second: TreasuresAndCollectibles-Sheet_103
+  - first:
+      213: -7304298326275453364
+    second: TreasuresAndCollectibles-Sheet_104
+  - first:
+      213: 5856030881799413341
+    second: TreasuresAndCollectibles-Sheet_105
+  - first:
+      213: -7585477152044999083
+    second: TreasuresAndCollectibles-Sheet_106
+  - first:
+      213: -4591445855457418056
+    second: TreasuresAndCollectibles-Sheet_107
+  - first:
+      213: 5170383938816739534
+    second: TreasuresAndCollectibles-Sheet_108
+  - first:
+      213: 5168097814006560398
+    second: TreasuresAndCollectibles-Sheet_109
+  - first:
+      213: 6071596050959225882
+    second: TreasuresAndCollectibles-Sheet_110
+  - first:
+      213: -6817526993675576608
+    second: TreasuresAndCollectibles-Sheet_111
+  - first:
+      213: 4595023607774523995
+    second: TreasuresAndCollectibles-Sheet_112
+  - first:
+      213: -6718270420134263934
+    second: TreasuresAndCollectibles-Sheet_113
+  - first:
+      213: 6357525263656354538
+    second: TreasuresAndCollectibles-Sheet_114
+  - first:
+      213: 6101389870069187353
+    second: TreasuresAndCollectibles-Sheet_115
+  - first:
+      213: 2905646276461096000
+    second: TreasuresAndCollectibles-Sheet_116
+  - first:
+      213: 3114876013584360965
+    second: TreasuresAndCollectibles-Sheet_117
+  - first:
+      213: -8247157305972922006
+    second: TreasuresAndCollectibles-Sheet_118
+  - first:
+      213: -2379640715887115330
+    second: TreasuresAndCollectibles-Sheet_119
+  - first:
+      213: 1308624586395692315
+    second: TreasuresAndCollectibles-Sheet_120
+  - first:
+      213: -7810372121152069148
+    second: TreasuresAndCollectibles-Sheet_121
+  - first:
+      213: -911040967643111575
+    second: TreasuresAndCollectibles-Sheet_122
+  - first:
+      213: -4907024300927489834
+    second: TreasuresAndCollectibles-Sheet_123
+  - first:
+      213: -3523599237131218642
+    second: TreasuresAndCollectibles-Sheet_124
+  - first:
+      213: 4389610094301224386
+    second: TreasuresAndCollectibles-Sheet_125
+  - first:
+      213: -3658075434973707701
+    second: TreasuresAndCollectibles-Sheet_126
+  - first:
+      213: 7329809442912586819
+    second: TreasuresAndCollectibles-Sheet_127
+  - first:
+      213: -7929455649601218363
+    second: TreasuresAndCollectibles-Sheet_128
+  - first:
+      213: -5543098989398386450
+    second: TreasuresAndCollectibles-Sheet_129
+  - first:
+      213: 1289966887411731381
+    second: TreasuresAndCollectibles-Sheet_130
+  - first:
+      213: -5405456815772682134
+    second: TreasuresAndCollectibles-Sheet_131
+  - first:
+      213: -4804711946245857371
+    second: TreasuresAndCollectibles-Sheet_132
+  - first:
+      213: 7070371825349585172
+    second: TreasuresAndCollectibles-Sheet_133
+  - first:
+      213: 1612380156435379672
+    second: TreasuresAndCollectibles-Sheet_134
+  - first:
+      213: -2861590622088755807
+    second: TreasuresAndCollectibles-Sheet_135
+  - first:
+      213: -480025161213863105
+    second: TreasuresAndCollectibles-Sheet_136
+  - first:
+      213: -855329893128809662
+    second: TreasuresAndCollectibles-Sheet_137
+  - first:
+      213: -4517267993955703747
+    second: TreasuresAndCollectibles-Sheet_138
+  - first:
+      213: -2120109481758888464
+    second: TreasuresAndCollectibles-Sheet_139
+  - first:
+      213: 6593995962382841805
+    second: TreasuresAndCollectibles-Sheet_140
+  - first:
+      213: -3903192020932076038
+    second: TreasuresAndCollectibles-Sheet_141
+  - first:
+      213: -4533118205156336363
+    second: TreasuresAndCollectibles-Sheet_142
+  - first:
+      213: 5981984525547054589
+    second: TreasuresAndCollectibles-Sheet_143
+  - first:
+      213: -6647749831497057638
+    second: TreasuresAndCollectibles-Sheet_144
+  - first:
+      213: 7497948274106460901
+    second: TreasuresAndCollectibles-Sheet_145
+  - first:
+      213: 4076182872592185752
+    second: TreasuresAndCollectibles-Sheet_146
+  - first:
+      213: -8650677197713190829
+    second: TreasuresAndCollectibles-Sheet_147
+  - first:
+      213: 2106757432417531091
+    second: TreasuresAndCollectibles-Sheet_148
+  - first:
+      213: -3407750418346701611
+    second: TreasuresAndCollectibles-Sheet_149
+  - first:
+      213: 8973253474849605055
+    second: TreasuresAndCollectibles-Sheet_150
+  - first:
+      213: -2034040648987058255
+    second: TreasuresAndCollectibles-Sheet_151
+  - first:
+      213: -3512244507249680253
+    second: TreasuresAndCollectibles-Sheet_152
+  - first:
+      213: 1490338284394028699
+    second: TreasuresAndCollectibles-Sheet_153
+  - first:
+      213: -1705269115336773482
+    second: TreasuresAndCollectibles-Sheet_154
+  - first:
+      213: 8205773904059441307
+    second: TreasuresAndCollectibles-Sheet_155
+  - first:
+      213: 5276929545970187069
+    second: TreasuresAndCollectibles-Sheet_156
+  - first:
+      213: 5383781670209170361
+    second: TreasuresAndCollectibles-Sheet_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aa2727bcf3a2e90800000000000000
+      internalID: -7049752123664061822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7f0d39803c19ca0800000000000000
+      internalID: -6011809585955801120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82f3642de13085d0800000000000000
+      internalID: -3062392852024397173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84901fd7ecd4d730800000000000000
+      internalID: 4023083255586657423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df6be7be83e67fa0800000000000000
+      internalID: -5803200867709784104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c33ed488efefe10800000000000000
+      internalID: 2233502326598089796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94aba3b8d9fa22490800000000000000
+      internalID: -7772456915707446711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 175
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211d2284afabba640800000000000000
+      internalID: 5092369387787309330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 175
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9734c0b769d3ce310800000000000000
+      internalID: 1435590097743135609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 175
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2991fe979454570800000000000000
+      internalID: 8450241063881904883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 175
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eb5496631b6e570800000000000000
+      internalID: 8495672594333548075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f944364cf8f75f0800000000000000
+      internalID: -756728138733150384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb458af7d34675eb0800000000000000
+      internalID: -4731202668231895877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9370167bb027860800000000000000
+      internalID: 7526090809524304373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0403ada1d872fa0800000000000000
+      internalID: -5825532446511185683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 164
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac36b84033078780800000000000000
+      internalID: -8680966250820125533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 163
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4385818e5aca75c0800000000000000
+      internalID: -4216835593830300854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 161
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b25d9f69d04ba30800000000000000
+      internalID: 4230020892095490967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854730b271427fdf0800000000000000
+      internalID: -146608780941757352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a26cd8461816960800000000000000
+      internalID: 7593492715598654017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d36dc2f8e904c970800000000000000
+      internalID: 8774148870135178193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9512246c7ef7a90800000000000000
+      internalID: -7313872431127373323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dc69e567a46a120800000000000000
+      internalID: 2424707321639128418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 159
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34572a8acfa0a1160800000000000000
+      internalID: 6996917051350742339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2250e429b397da3d0800000000000000
+      internalID: -3193763263971195614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c3d2eac3814e40800000000000000
+      internalID: 5638933115856732177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39e34eefd705bdc0800000000000000
+      internalID: -3623981666793166534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241b72040068d8bd0800000000000000
+      internalID: -2626295672052666046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 145
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e80a333362d51dd0800000000000000
+      internalID: -2515873493313517339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef099d544b2399600800000000000000
+      internalID: 475466985511686398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f620a186500cf70b0800000000000000
+      internalID: -5728649071538077073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 144
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0f07445d5d10640800000000000000
+      internalID: 5044548169584668832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 143
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcddce1ebc26b670800000000000000
+      internalID: 8554073737309052154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71fd599fcb4aa9e0800000000000000
+      internalID: -1609390561828146821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e77573bd3b81a850800000000000000
+      internalID: 6386538843708159969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9197504ed000a6f10800000000000000
+      internalID: 2263621822367234329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288510148694305c0800000000000000
+      internalID: -4250472911191582590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53ebfee57e54c8e0800000000000000
+      internalID: -1674109300861312166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 143
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6805de095f4d352d0800000000000000
+      internalID: -3291052751514152826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 132
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e819c1c0a78e81b0800000000000000
+      internalID: -5652431357787694872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 131
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee2c467b5d389250800000000000000
+      internalID: 5951574370606132968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 129
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aa270eaf4f86460800000000000000
+      internalID: 7235302159715314283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17555c675e054b60800000000000000
+      internalID: 7729600104093800220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157fa9b9ba41a4d30800000000000000
+      internalID: 4416365111872780113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f54d05bd98fc90d0800000000000000
+      internalID: -3414581061222578704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa44986281dd53660800000000000000
+      internalID: 7365035861429798063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7363d207b9e87e30800000000000000
+      internalID: 4501604799792505722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 127
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b311276d28dc73830800000000000000
+      internalID: 4050932351670292795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9563f596c52b250800000000000000
+      internalID: 5958926864603306482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df23edfbb1a7faeb0800000000000000
+      internalID: -4706408825977163011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a01feb7c2138ff90800000000000000
+      internalID: -6919726760327180124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d0bc00906d9a290800000000000000
+      internalID: -7878530738951615158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 112
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b68cd30660eaab0800000000000000
+      internalID: -4995047926284129436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 113
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd87a932dbf3e560800000000000000
+      internalID: 7341988697873026526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b6964276769680800000000000000
+      internalID: -8748674992937977841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a885df94dc0587e50800000000000000
+      internalID: 6807279679410362506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 112
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafafe3ae23e08380800000000000000
+      internalID: -8970920668263632982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3b1c9400f671690800000000000000
+      internalID: -7631508996527901708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 111
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428fdbaf4df5146b0800000000000000
+      internalID: -5313860716976015324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 95
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8152008462f66fc00800000000000000
+      internalID: 934056182933366040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23a1500e298ebeb0800000000000000
+      internalID: -4702170130261368022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c910e2cd8fb30b6c0800000000000000
+      internalID: -4129734918266814052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3358da7a274a9fd70800000000000000
+      internalID: 9077467336288339251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea5c9b44fd8ef5a0800000000000000
+      internalID: -6485590332986860820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f280cc7d9bdc62d60800000000000000
+      internalID: 7865199997322266671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5de813c3781edb0800000000000000
+      internalID: -4764378238182042115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3580c671c18841470800000000000000
+      internalID: 8364460062167271507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ab50d679e6bdda0800000000000000
+      internalID: -5919015688600176078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f64f0c6638d8de0800000000000000
+      internalID: -1329261837657280617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 100
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c90c467aa8d0650800000000000000
+      internalID: 6200764713513557142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 99
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055df96bfc86d01f0800000000000000
+      internalID: -1077089494540233392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 97
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc093a7a1be704cf0800000000000000
+      internalID: -270076676155404083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423f8128caec86100800000000000000
+      internalID: 101558231928206116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7a9c065559e4fe0800000000000000
+      internalID: -1202859856532756512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0eaa392dd927de90800000000000000
+      internalID: -7001081065867923955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 95
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a94af3e9d590ff0800000000000000
+      internalID: -69421384993564109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c49c3bbb06ec7cc0800000000000000
+      internalID: -3711839054799792958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de648435410e6770800000000000000
+      internalID: 8605817334697062103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f132cc4970814c80800000000000000
+      internalID: -8340243776446254601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa80bcad97ef4520800000000000000
+      internalID: 2688622166956608243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856cbb21dcb539360800000000000000
+      internalID: 7175179567672051288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 81
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30140b543995b920800000000000000
+      internalID: 3005476776484016190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 80
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26640275681985ed0800000000000000
+      internalID: -2425028393165633950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659cc40ad07cf3410800000000000000
+      internalID: 1459103665629219158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d7b2061ec104880800000000000000
+      internalID: -8628865131735188189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 82
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873ee5dc60d4240d0800000000000000
+      internalID: -3440102473746947208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed5bc13a0fa80410800000000000000
+      internalID: 1443596138892189167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 82
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10fe9949151a9e40800000000000000
+      internalID: 5663862679725338652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 81
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19205a1f7cb882d90800000000000000
+      internalID: -7122289119817563503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 83
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764c741e2afcae500800000000000000
+      internalID: 426381413211161703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 79
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2945be7e04c7850800000000000000
+      internalID: 6376042537279591155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 79
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e579c5e4e768cb0800000000000000
+      internalID: -4862059872673898900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 47
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d166009313471370800000000000000
+      internalID: 8293170990125834713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c313fb2de986c90800000000000000
+      internalID: -7176311378226889579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c90ba837b894ab0800000000000000
+      internalID: -5023330580990747563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62186c68995268400800000000000000
+      internalID: 325989364352319782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed584fb189e767770800000000000000
+      internalID: 8608206929534420446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba394897055c82380800000000000000
+      internalID: -8995723306245778517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e26067c30acf8760800000000000000
+      internalID: 7462405225154896612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398faf6be95dbb9a0800000000000000
+      internalID: -6216139983003387757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36964b1f8681c49d0800000000000000
+      internalID: -2788827230238381725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 65
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0c34b96cab0c200800000000000000
+      internalID: 198363745775501519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 63
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98451168822c55e80800000000000000
+      internalID: -8190426867999615863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4d4b6615eb33720800000000000000
+      internalID: 2824810648116188406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e0fd04f5be1aa90800000000000000
+      internalID: -7304298326275453364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e1f577f0dc44150800000000000000
+      internalID: 5856030881799413341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e148448b8fab690800000000000000
+      internalID: -7585477152044999083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4650c2258e740c0800000000000000
+      internalID: -4591445855457418056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec88e896cc4e0c740800000000000000
+      internalID: 5170383938816739534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8675508495c8b740800000000000000
+      internalID: 5168097814006560398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14d61d8074a24450800000000000000
+      internalID: 6071596050959225882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea945fe1574361a0800000000000000
+      internalID: -6817526993675576608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 47
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b523fe330adc4cf30800000000000000
+      internalID: 4595023607774523995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 47
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28302e6d5a8e3c2a0800000000000000
+      internalID: -6718270420134263934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 47
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae20fce2b877a3850800000000000000
+      internalID: 6357525263656354538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91304a1a2cd7ca450800000000000000
+      internalID: 6101389870069187353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c6667c4ede25820800000000000000
+      internalID: 2905646276461096000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506a4152b334a3b20800000000000000
+      internalID: 3114876013584360965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6967b220263c8d80800000000000000
+      internalID: -8247157305972922006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb30e747061d9fed0800000000000000
+      internalID: -2379640715887115330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d2570c02b292210800000000000000
+      internalID: 1308624586395692315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1ed1bdfebfb9390800000000000000
+      internalID: -7810372121152069148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fddcb11155b53f0800000000000000
+      internalID: -911040967643111575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8e107956fb6ebb0800000000000000
+      internalID: -4907024300927489834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21d4f3a929a91fc0800000000000000
+      internalID: -3523599237131218642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd1b45af170bec30800000000000000
+      internalID: 4389610094301224386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b424fc0f5c7eb3dc0800000000000000
+      internalID: -3658075434973707701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ccb147ad6b8b560800000000000000
+      internalID: 7329809442912586819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c81e47491ae4f190800000000000000
+      internalID: -7929455649601218363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8151676d4f213b0800000000000000
+      internalID: -5543098989398386450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb4130bc02e6e110800000000000000
+      internalID: 1289966887411731381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68b7275aa5fbf4b0800000000000000
+      internalID: -5405456815772682134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af90fbf0fb325db0800000000000000
+      internalID: -4804711946245857371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41964e7f6b10f1260800000000000000
+      internalID: 7070371825349585172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d53833a533506610800000000000000
+      internalID: 1612380156435379672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a58fc59d769948d0800000000000000
+      internalID: -2861590622088755807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b199eb8ab9659f0800000000000000
+      internalID: -480025161213863105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243d8427ef14124f0800000000000000
+      internalID: -855329893128809662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34670961b07f41c0800000000000000
+      internalID: -4517267993955703747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fde2deb8abd392e0800000000000000
+      internalID: -2120109481758888464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7703c2464928b50800000000000000
+      internalID: 6593995962382841805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd5436798315d9c0800000000000000
+      internalID: -3903192020932076038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 18
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ddcc882012711c0800000000000000
+      internalID: -4533118205156336363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 16
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5ad196b37440350800000000000000
+      internalID: 5981984525547054589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a74f1efb27eb3a0800000000000000
+      internalID: -6647749831497057638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea6e5eba301e0860800000000000000
+      internalID: 7497948274106460901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8997360e9b2819830800000000000000
+      internalID: 4076182872592185752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350dbb30cee92f780800000000000000
+      internalID: -8650677197713190829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4392309b4bc3d10800000000000000
+      internalID: 2106757432417531091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc814fac0d35b0d0800000000000000
+      internalID: -3407750418346701611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb543f73e76678c70800000000000000
+      internalID: 8973253474849605055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfdb6a7ec2a5c3e0800000000000000
+      internalID: -2034040648987058255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380e015ba30024fc0800000000000000
+      internalID: -3512244507249680253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e987406cebea410800000000000000
+      internalID: 1490338284394028699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69038e546caa558e0800000000000000
+      internalID: -1705269115336773482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9022a2c3e3c0e170800000000000000
+      internalID: 8205773904059441307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bf054b67b6b3940800000000000000
+      internalID: 5276929545970187069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasuresAndCollectibles-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bba31197e807ba40800000000000000
+      internalID: 5383781670209170361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TreasuresAndCollectibles-Sheet_0: -7049752123664061822
+      TreasuresAndCollectibles-Sheet_1: -6011809585955801120
+      TreasuresAndCollectibles-Sheet_10: 8495672594333548075
+      TreasuresAndCollectibles-Sheet_100: -2788827230238381725
+      TreasuresAndCollectibles-Sheet_101: 198363745775501519
+      TreasuresAndCollectibles-Sheet_102: -8190426867999615863
+      TreasuresAndCollectibles-Sheet_103: 2824810648116188406
+      TreasuresAndCollectibles-Sheet_104: -7304298326275453364
+      TreasuresAndCollectibles-Sheet_105: 5856030881799413341
+      TreasuresAndCollectibles-Sheet_106: -7585477152044999083
+      TreasuresAndCollectibles-Sheet_107: -4591445855457418056
+      TreasuresAndCollectibles-Sheet_108: 5170383938816739534
+      TreasuresAndCollectibles-Sheet_109: 5168097814006560398
+      TreasuresAndCollectibles-Sheet_11: -756728138733150384
+      TreasuresAndCollectibles-Sheet_110: 6071596050959225882
+      TreasuresAndCollectibles-Sheet_111: -6817526993675576608
+      TreasuresAndCollectibles-Sheet_112: 4595023607774523995
+      TreasuresAndCollectibles-Sheet_113: -6718270420134263934
+      TreasuresAndCollectibles-Sheet_114: 6357525263656354538
+      TreasuresAndCollectibles-Sheet_115: 6101389870069187353
+      TreasuresAndCollectibles-Sheet_116: 2905646276461096000
+      TreasuresAndCollectibles-Sheet_117: 3114876013584360965
+      TreasuresAndCollectibles-Sheet_118: -8247157305972922006
+      TreasuresAndCollectibles-Sheet_119: -2379640715887115330
+      TreasuresAndCollectibles-Sheet_12: -4731202668231895877
+      TreasuresAndCollectibles-Sheet_120: 1308624586395692315
+      TreasuresAndCollectibles-Sheet_121: -7810372121152069148
+      TreasuresAndCollectibles-Sheet_122: -911040967643111575
+      TreasuresAndCollectibles-Sheet_123: -4907024300927489834
+      TreasuresAndCollectibles-Sheet_124: -3523599237131218642
+      TreasuresAndCollectibles-Sheet_125: 4389610094301224386
+      TreasuresAndCollectibles-Sheet_126: -3658075434973707701
+      TreasuresAndCollectibles-Sheet_127: 7329809442912586819
+      TreasuresAndCollectibles-Sheet_128: -7929455649601218363
+      TreasuresAndCollectibles-Sheet_129: -5543098989398386450
+      TreasuresAndCollectibles-Sheet_13: 7526090809524304373
+      TreasuresAndCollectibles-Sheet_130: 1289966887411731381
+      TreasuresAndCollectibles-Sheet_131: -5405456815772682134
+      TreasuresAndCollectibles-Sheet_132: -4804711946245857371
+      TreasuresAndCollectibles-Sheet_133: 7070371825349585172
+      TreasuresAndCollectibles-Sheet_134: 1612380156435379672
+      TreasuresAndCollectibles-Sheet_135: -2861590622088755807
+      TreasuresAndCollectibles-Sheet_136: -480025161213863105
+      TreasuresAndCollectibles-Sheet_137: -855329893128809662
+      TreasuresAndCollectibles-Sheet_138: -4517267993955703747
+      TreasuresAndCollectibles-Sheet_139: -2120109481758888464
+      TreasuresAndCollectibles-Sheet_14: -5825532446511185683
+      TreasuresAndCollectibles-Sheet_140: 6593995962382841805
+      TreasuresAndCollectibles-Sheet_141: -3903192020932076038
+      TreasuresAndCollectibles-Sheet_142: -4533118205156336363
+      TreasuresAndCollectibles-Sheet_143: 5981984525547054589
+      TreasuresAndCollectibles-Sheet_144: -6647749831497057638
+      TreasuresAndCollectibles-Sheet_145: 7497948274106460901
+      TreasuresAndCollectibles-Sheet_146: 4076182872592185752
+      TreasuresAndCollectibles-Sheet_147: -8650677197713190829
+      TreasuresAndCollectibles-Sheet_148: 2106757432417531091
+      TreasuresAndCollectibles-Sheet_149: -3407750418346701611
+      TreasuresAndCollectibles-Sheet_15: -8680966250820125533
+      TreasuresAndCollectibles-Sheet_150: 8973253474849605055
+      TreasuresAndCollectibles-Sheet_151: -2034040648987058255
+      TreasuresAndCollectibles-Sheet_152: -3512244507249680253
+      TreasuresAndCollectibles-Sheet_153: 1490338284394028699
+      TreasuresAndCollectibles-Sheet_154: -1705269115336773482
+      TreasuresAndCollectibles-Sheet_155: 8205773904059441307
+      TreasuresAndCollectibles-Sheet_156: 5276929545970187069
+      TreasuresAndCollectibles-Sheet_157: 5383781670209170361
+      TreasuresAndCollectibles-Sheet_16: -4216835593830300854
+      TreasuresAndCollectibles-Sheet_17: 4230020892095490967
+      TreasuresAndCollectibles-Sheet_18: -146608780941757352
+      TreasuresAndCollectibles-Sheet_19: 7593492715598654017
+      TreasuresAndCollectibles-Sheet_2: -3062392852024397173
+      TreasuresAndCollectibles-Sheet_20: 8774148870135178193
+      TreasuresAndCollectibles-Sheet_21: -7313872431127373323
+      TreasuresAndCollectibles-Sheet_22: 2424707321639128418
+      TreasuresAndCollectibles-Sheet_23: 6996917051350742339
+      TreasuresAndCollectibles-Sheet_24: -3193763263971195614
+      TreasuresAndCollectibles-Sheet_25: 5638933115856732177
+      TreasuresAndCollectibles-Sheet_26: -3623981666793166534
+      TreasuresAndCollectibles-Sheet_27: -2626295672052666046
+      TreasuresAndCollectibles-Sheet_28: -2515873493313517339
+      TreasuresAndCollectibles-Sheet_29: 475466985511686398
+      TreasuresAndCollectibles-Sheet_3: 4023083255586657423
+      TreasuresAndCollectibles-Sheet_30: -5728649071538077073
+      TreasuresAndCollectibles-Sheet_31: 5044548169584668832
+      TreasuresAndCollectibles-Sheet_32: 8554073737309052154
+      TreasuresAndCollectibles-Sheet_33: -1609390561828146821
+      TreasuresAndCollectibles-Sheet_34: 6386538843708159969
+      TreasuresAndCollectibles-Sheet_35: 2263621822367234329
+      TreasuresAndCollectibles-Sheet_36: -4250472911191582590
+      TreasuresAndCollectibles-Sheet_37: -1674109300861312166
+      TreasuresAndCollectibles-Sheet_38: -3291052751514152826
+      TreasuresAndCollectibles-Sheet_39: -5652431357787694872
+      TreasuresAndCollectibles-Sheet_4: -5803200867709784104
+      TreasuresAndCollectibles-Sheet_40: 5951574370606132968
+      TreasuresAndCollectibles-Sheet_41: 7235302159715314283
+      TreasuresAndCollectibles-Sheet_42: 7729600104093800220
+      TreasuresAndCollectibles-Sheet_43: 4416365111872780113
+      TreasuresAndCollectibles-Sheet_44: -3414581061222578704
+      TreasuresAndCollectibles-Sheet_45: 7365035861429798063
+      TreasuresAndCollectibles-Sheet_46: 4501604799792505722
+      TreasuresAndCollectibles-Sheet_47: 4050932351670292795
+      TreasuresAndCollectibles-Sheet_48: 5958926864603306482
+      TreasuresAndCollectibles-Sheet_49: -4706408825977163011
+      TreasuresAndCollectibles-Sheet_5: 2233502326598089796
+      TreasuresAndCollectibles-Sheet_50: -6919726760327180124
+      TreasuresAndCollectibles-Sheet_51: -7878530738951615158
+      TreasuresAndCollectibles-Sheet_52: -4995047926284129436
+      TreasuresAndCollectibles-Sheet_53: 7341988697873026526
+      TreasuresAndCollectibles-Sheet_54: -8748674992937977841
+      TreasuresAndCollectibles-Sheet_55: 6807279679410362506
+      TreasuresAndCollectibles-Sheet_56: -8970920668263632982
+      TreasuresAndCollectibles-Sheet_57: -7631508996527901708
+      TreasuresAndCollectibles-Sheet_58: -5313860716976015324
+      TreasuresAndCollectibles-Sheet_59: 934056182933366040
+      TreasuresAndCollectibles-Sheet_6: -7772456915707446711
+      TreasuresAndCollectibles-Sheet_60: -4702170130261368022
+      TreasuresAndCollectibles-Sheet_61: -4129734918266814052
+      TreasuresAndCollectibles-Sheet_62: 9077467336288339251
+      TreasuresAndCollectibles-Sheet_63: -6485590332986860820
+      TreasuresAndCollectibles-Sheet_64: 7865199997322266671
+      TreasuresAndCollectibles-Sheet_65: -4764378238182042115
+      TreasuresAndCollectibles-Sheet_66: 8364460062167271507
+      TreasuresAndCollectibles-Sheet_67: -5919015688600176078
+      TreasuresAndCollectibles-Sheet_68: -1329261837657280617
+      TreasuresAndCollectibles-Sheet_69: 6200764713513557142
+      TreasuresAndCollectibles-Sheet_7: 5092369387787309330
+      TreasuresAndCollectibles-Sheet_70: -1077089494540233392
+      TreasuresAndCollectibles-Sheet_71: -270076676155404083
+      TreasuresAndCollectibles-Sheet_72: 101558231928206116
+      TreasuresAndCollectibles-Sheet_73: -1202859856532756512
+      TreasuresAndCollectibles-Sheet_74: -7001081065867923955
+      TreasuresAndCollectibles-Sheet_75: -69421384993564109
+      TreasuresAndCollectibles-Sheet_76: -3711839054799792958
+      TreasuresAndCollectibles-Sheet_77: 8605817334697062103
+      TreasuresAndCollectibles-Sheet_78: -8340243776446254601
+      TreasuresAndCollectibles-Sheet_79: 2688622166956608243
+      TreasuresAndCollectibles-Sheet_8: 1435590097743135609
+      TreasuresAndCollectibles-Sheet_80: 7175179567672051288
+      TreasuresAndCollectibles-Sheet_81: 3005476776484016190
+      TreasuresAndCollectibles-Sheet_82: -2425028393165633950
+      TreasuresAndCollectibles-Sheet_83: 1459103665629219158
+      TreasuresAndCollectibles-Sheet_84: -8628865131735188189
+      TreasuresAndCollectibles-Sheet_85: -3440102473746947208
+      TreasuresAndCollectibles-Sheet_86: 1443596138892189167
+      TreasuresAndCollectibles-Sheet_87: 5663862679725338652
+      TreasuresAndCollectibles-Sheet_88: -7122289119817563503
+      TreasuresAndCollectibles-Sheet_89: 426381413211161703
+      TreasuresAndCollectibles-Sheet_9: 8450241063881904883
+      TreasuresAndCollectibles-Sheet_90: 6376042537279591155
+      TreasuresAndCollectibles-Sheet_91: -4862059872673898900
+      TreasuresAndCollectibles-Sheet_92: 8293170990125834713
+      TreasuresAndCollectibles-Sheet_93: -7176311378226889579
+      TreasuresAndCollectibles-Sheet_94: -5023330580990747563
+      TreasuresAndCollectibles-Sheet_95: 325989364352319782
+      TreasuresAndCollectibles-Sheet_96: 8608206929534420446
+      TreasuresAndCollectibles-Sheet_97: -8995723306245778517
+      TreasuresAndCollectibles-Sheet_98: 7462405225154896612
+      TreasuresAndCollectibles-Sheet_99: -6216139983003387757
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
